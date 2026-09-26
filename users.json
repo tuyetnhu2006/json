@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Nguyen Van An",
+      "email": "an@gmail.com",
+      "desc": "Sinh vien Cong nghe thong tin, yeu thich lap trinh.",
+      "avatar_url": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
+      "hobby": "Lap trinh, nghe nhac"
+    },
+    {
+      "id": 2,
+      "username": "Tran Thi Binh",
+      "email": "binh@gmail.com",
+      "desc": "Yeu thich thiet ke va kham pha nhung dieu moi.",
+      "avatar_url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "hobby": "Thiet ke, du lich"
+    },
+    {
+      "id": 3,
+      "username": "Le Minh Chau",
+      "email": "chau@gmail.com",
+      "desc": "Dam me cong nghe va phat trien ung dung.",
+      "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "hobby": "Coding, doc sach"
+    },
+    {
+      "id": 4,
+      "username": "Pham Hoang Duy",
+      "email": "duy@gmail.com",
+      "desc": "Thich the thao va lam viec voi cong nghe.",
+      "avatar_url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      "hobby": "Bong da, game"
+    },
+    {
+      "id": 5,
+      "username": "Vo Ngoc Anh",
+      "email": "anh@gmail.com",
+      "desc": "Sinh vien yeu thich sang tao va kham pha.",
+      "avatar_url": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+      "hobby": "Am nhac, chup anh"
+    }
+  ]
+}
