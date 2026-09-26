@@ -39,6 +39,46 @@
       "desc": "Sinh vien yeu thich sang tao va kham pha.",
       "avatar_url": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
       "hobby": "Am nhac, chup anh"
+    },
+    {
+      "id": 6,
+      "username": "Do Thanh Nam",
+      "email": "nam@gmail.com",
+      "desc": "Yeu thich phat trien phan mem va tim hieu cong nghe moi.",
+      "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "hobby": "Lap trinh, gym"
+    },
+    {
+      "id": 7,
+      "username": "Nguyen Ha My",
+      "email": "my@gmail.com",
+      "desc": "Thich sang tao noi dung va kham pha nhung dia diem moi.",
+      "avatar_url": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
+      "hobby": "Du lich, photography"
+    },
+    {
+      "id": 8,
+      "username": "Bui Quang Huy",
+      "email": "huy@gmail.com",
+      "desc": "Quan tam den lap trinh ung dung va cac san pham cong nghe.",
+      "avatar_url": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea",
+      "hobby": "Game, bong ro"
+    },
+    {
+      "id": 9,
+      "username": "Pham Thu Ha",
+      "email": "ha@gmail.com",
+      "desc": "Yeu thich doc sach, hoc ngoai ngu va nghe nhac.",
+      "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+      "hobby": "Doc sach, nghe nhac"
+    },
+    {
+      "id": 10,
+      "username": "Tran Duc Minh",
+      "email": "minh@gmail.com",
+      "desc": "Dam me cong nghe va muon tro thanh lap trinh vien.",
+      "avatar_url": "https://images.unsplash.com/photo-1504257432389-52343af06ae3",
+      "hobby": "Coding, xem phim"
     }
   ]
 }
